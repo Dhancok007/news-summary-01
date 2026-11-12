@@ -17,7 +17,7 @@ import os
 SUMMARY = (
     "THE WORLD ON WEDNESDAY 11 NOVEMBER 2026\n"
     "Ukraine and Russia ended two days of US-mediated talks in Abu Dhabi "
-    "agreeing a major prisoner-of-war exchange, but no ceasefire; NATO jets "
+    "agreeing on a major prisoner-of-war exchange, but no ceasefire; NATO jets "
     "scrambled after at least four drones strayed into Baltic airspace. In "
     "Washington, the House voted 211-204 to shelve impeachment articles "
     "against Defense Secretary Hegseth, Republicans elected Jim Jordan "
